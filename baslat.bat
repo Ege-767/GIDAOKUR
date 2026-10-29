@@ -12,3 +12,4 @@ echo Tarayicida http://127.0.0.1:3000 adresini ac.
 echo Bu pencereyi acik tut. Durdurmak icin Ctrl+C.
 node server.js
 pause
+

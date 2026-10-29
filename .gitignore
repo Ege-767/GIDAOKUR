@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+gidaokur.sqlite
+gidaokur.sqlite-shm
+gidaokur.sqlite-wal
+.DS_Store
+Thumbs.db
+
