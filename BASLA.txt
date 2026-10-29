@@ -1,0 +1,10 @@
+GIDAOKUR — BAŞLATMA
+
+1. ZIP'i bir klasöre çıkar.
+2. Hızlı denemek için index.html dosyasını aç. Üst menüdeki her başlık ayrı bir sayfaya gider.
+3. Barkod tarama, ambalaj OCR ve Open Food Facts ürün araması için internet gerekir.
+4. İsteğe bağlı: Windows'ta baslat.bat dosyasına çift tıkla; sunucu açıkken tarayıcıda http://127.0.0.1:3000 adresine git.
+5. Durdurmak için sunucu penceresinde Ctrl+C yap.
+
+Sayfalar: index.html, nasil-calisir.html, urun-incele.html, alerjenlerim.html ve rehber.html.
+Bu sürümde hesap bilgisi, alerjen tercihleri ve yıldızlar aynı tarayıcıda yerel olarak tutulur. Demo kuponu gerçek mağazada geçerli değildir. Ayrıntılar README.md içindedir.
